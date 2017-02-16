@@ -16,3 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 *.RTF	 dirr=astextplain1
+*.RTF  dirr=astextplain2
